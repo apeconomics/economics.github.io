@@ -1,2 +1,2 @@
 # economics.github.io
-Interactive Economics Content that helps anyone to economics on their own!
+Interactive Economics Content that helps anyone to learn economics on their own!
